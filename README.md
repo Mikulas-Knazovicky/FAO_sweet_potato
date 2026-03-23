@@ -1,1 +1,1 @@
-Analysis of Sweet potato date from FAOSTAT
+Analysis of Sweet potato data from FAOSTAT
